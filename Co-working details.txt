@@ -1,0 +1,16 @@
+cera pro medium - gotham
+
+axiforma bold
+
+poppins medium
+
+gilroy-semibold
+gilroy-medium	
+
+
+avenir medium
+
+
+orange color code = #FD5B2F
+black color code = #000000
+white color code = #ffffff
